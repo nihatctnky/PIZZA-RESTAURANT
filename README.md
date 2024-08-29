@@ -11,5 +11,4 @@ HTML,CSS,JavaScript
 # Ekran Gif
 
 
-![Ekran Gif](https://github.com/user-attachments/assets/03e49983-db60-4264-8170-87bd5f82a2f9)
 
