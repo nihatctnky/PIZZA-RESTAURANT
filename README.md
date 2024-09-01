@@ -11,5 +11,4 @@ HTML,CSS,JavaScript
 # Ekran Gif
 
 
-![Uploading VideoScreen1724967293654-ezgif.com-optimize.gif…]()
 
